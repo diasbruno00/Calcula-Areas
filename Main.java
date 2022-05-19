@@ -27,7 +27,7 @@ public static float AreaCirculo( float raio){
 }
 
 public static float AreaTrapezio( float base , float base2, float altura){
-    float area =( base * base ) * altura / 2;
+    float area =( base2 * base ) * altura / 2;
     return area ;
 }
 
